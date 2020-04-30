@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:wss_youtube/models/video.dart';
 
-const API_KEY = 'AIzaSyCW9Q_1eFjYZfF2w3pjM04zKhNBD0isOMk';
+const API_KEY = 'CHANGE ME;
 
 // "https://www.googleapis.com/youtube/v3/search?part=snippet&q=$search&type=video&key=$API_KEY&maxResults=10"
 
